@@ -1,0 +1,15 @@
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\DataAccess.deps.json
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\DataAccess.dll
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\DataAccess.pdb
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\Core.dll
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\Entities.dll
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\Core.pdb
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\bin\Release\netstandard2.1\Entities.pdb
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.AssemblyInfo.cs
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.csproj.CopyComplete
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.dll
+D:\mehmetgulenc\repos\MyWebSite\DataAccess\obj\Release\netstandard2.1\DataAccess.pdb

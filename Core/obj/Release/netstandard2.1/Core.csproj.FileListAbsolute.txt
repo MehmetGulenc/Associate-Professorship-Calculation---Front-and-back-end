@@ -1,0 +1,10 @@
+D:\mehmetgulenc\repos\MyWebSite\Core\bin\Release\netstandard2.1\Core.deps.json
+D:\mehmetgulenc\repos\MyWebSite\Core\bin\Release\netstandard2.1\Core.dll
+D:\mehmetgulenc\repos\MyWebSite\Core\bin\Release\netstandard2.1\Core.pdb
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.csproj.AssemblyReference.cache
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.AssemblyInfo.cs
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.dll
+D:\mehmetgulenc\repos\MyWebSite\Core\obj\Release\netstandard2.1\Core.pdb

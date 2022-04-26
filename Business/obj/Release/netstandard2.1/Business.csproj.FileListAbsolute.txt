@@ -1,0 +1,17 @@
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Business.deps.json
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Business.dll
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Business.pdb
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Core.dll
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\DataAccess.dll
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Entities.dll
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\DataAccess.pdb
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Entities.pdb
+D:\mehmetgulenc\repos\MyWebSite\Business\bin\Release\netstandard2.1\Core.pdb
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.csproj.AssemblyReference.cache
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.AssemblyInfoInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.AssemblyInfo.cs
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.csproj.CopyComplete
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.dll
+D:\mehmetgulenc\repos\MyWebSite\Business\obj\Release\netstandard2.1\Business.pdb

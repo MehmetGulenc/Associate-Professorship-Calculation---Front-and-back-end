@@ -1,0 +1,16 @@
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.exe
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.deps.json
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.runtimeconfig.json
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.runtimeconfig.dev.json
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.dll
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\bin\Release\net5.0\UIPreparation.pdb
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.csproj.AssemblyReference.cache
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.AssemblyInfoInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.AssemblyInfo.cs
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.csproj.CoreCompileInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.dll
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\refint\UIPreparation.dll
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.pdb
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\UIPreparation.genruntimeconfig.cache
+D:\mehmetgulenc\repos\MyWebSite\UIPreparation\obj\Release\net5.0\ref\UIPreparation.dll

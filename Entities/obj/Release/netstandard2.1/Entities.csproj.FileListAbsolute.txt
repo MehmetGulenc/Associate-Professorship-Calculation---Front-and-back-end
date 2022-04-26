@@ -1,0 +1,13 @@
+D:\mehmetgulenc\repos\MyWebSite\Entities\bin\Release\netstandard2.1\Entities.deps.json
+D:\mehmetgulenc\repos\MyWebSite\Entities\bin\Release\netstandard2.1\Entities.dll
+D:\mehmetgulenc\repos\MyWebSite\Entities\bin\Release\netstandard2.1\Entities.pdb
+D:\mehmetgulenc\repos\MyWebSite\Entities\bin\Release\netstandard2.1\Core.dll
+D:\mehmetgulenc\repos\MyWebSite\Entities\bin\Release\netstandard2.1\Core.pdb
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.csproj.AssemblyReference.cache
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.AssemblyInfoInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.AssemblyInfo.cs
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.csproj.CopyComplete
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.dll
+D:\mehmetgulenc\repos\MyWebSite\Entities\obj\Release\netstandard2.1\Entities.pdb
